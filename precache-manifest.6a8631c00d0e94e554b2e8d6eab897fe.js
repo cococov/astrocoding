@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "79387584f3dd7356effa45dc7c543fd0",
+    "revision": "30b5af6faef43928c29c9dce8e87da77",
     "url": "/astrocoding/index.html"
   },
   {
